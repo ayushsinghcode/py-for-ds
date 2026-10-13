@@ -1,0 +1,6 @@
+a=str(input("what is your name"))
+b = str(input("which place you are now"))
+c= int(input("BTW what is your age"))
+print("hello",a,"nice to meet you")
+print(b,"that is the very good place")
+print("Nice to know you are of",c)
