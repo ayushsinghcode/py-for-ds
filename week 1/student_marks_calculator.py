@@ -6,7 +6,7 @@ physics=int(input("enter physics marks"))
 marks = maths+chemistry+physics
 print("you are doing great",name.upper())
 print("your total marks is :",marks)
-percentage=marks/3
+percentage=marks/300*100
 print("your total percentage is :",percentage,"%")
 print("\n" + "=" * 36)
 
